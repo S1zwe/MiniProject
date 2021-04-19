@@ -1,0 +1,6 @@
+Majuba:50:287:50
+Kendal:45:97:180
+Kusile:40:412:180
+Medupi:11:47:300
+Tutuka:8:369:300
+Lethabo:20:490:300
